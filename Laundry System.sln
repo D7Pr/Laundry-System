@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Laundry System", "Laundry System.csproj", "{0E91B095-F78B-48C2-8E84-02B0533D8511}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Laundry SETUP", "Laundry SETUP\Laundry SETUP.vdproj", "{E65CD597-E91B-40B2-BC8F-A75ED903733F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E91B095-F78B-48C2-8E84-02B0533D8511}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{0E91B095-F78B-48C2-8E84-02B0533D8511}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{0E91B095-F78B-48C2-8E84-02B0533D8511}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E91B095-F78B-48C2-8E84-02B0533D8511}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E65CD597-E91B-40B2-BC8F-A75ED903733F}.Debug|Any CPU.ActiveCfg = Release
+		{E65CD597-E91B-40B2-BC8F-A75ED903733F}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BCE4F6C9-F3AE-4E85-AE35-E25C596BFEB1}
+	EndGlobalSection
+EndGlobal
